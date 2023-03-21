@@ -27,7 +27,8 @@ export function customerReducer(state = initialState, action: customerActions.Ac
             {
                 return {
                     ...state,
-                    loading: true
+                    loading: true,
+                    loaded: false,
                 }
             }
         case customerActions.CustomerActionTypes.LOAD_CUSTOMERS_SUCCESS:
