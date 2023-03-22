@@ -1,7 +1,7 @@
 export interface Customer {
-    id?: number;
-    name: string;
-    phone: string;
-    address: string;
-    membership: string;
+    id?: any;
+    name: string | null;
+    phone: string| null;
+    address: string| null;
+    membership: string| null;
 }
