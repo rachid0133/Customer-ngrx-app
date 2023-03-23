@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-To launch a development server, execute the command npm run start. Access http://localhost:4200/ and http://localhost:3000/ to perform CRUD operations on the db.json file. The application will automatically reload if you change any of the source files.
+To launch a development server, execute the command npm run start, to be able to access http://localhost:4200/ and http://localhost:3000/ to perform CRUD operations on the db.json file. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
